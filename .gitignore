@@ -10,3 +10,8 @@ backup
 weights/*.weights
 __pycache__
 checkpoints
+data/samples
+data/custom/images
+data/custom/labels
+data/custom/*.txt
+
